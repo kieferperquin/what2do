@@ -1,0 +1,3 @@
+cd C:\Users\kiefe\Documents\workspace\discordbot
+
+node index.js
